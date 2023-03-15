@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/0x03$ set.sorted printenv.sorted | grep "<" | awk '{ print $2 }'
+/tmp/0x03$ ~> printenv 
